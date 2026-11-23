@@ -1,0 +1,6 @@
+name = "Multiferroics"
+version = "0.1.0"
+defaultTargets = ["Multiferroics"]
+
+[[lean_lib]]
+name = "Multiferroics"
